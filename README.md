@@ -3,4 +3,4 @@ Used EDA on olympic data set to find all history about all sports and players th
 
 Web App link -  https://olympic-dataanalysis.herokuapp.com/
 
-Data Set link - https://www.kaggle.com/heesoo37/120-y...
+Data Set link - https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
