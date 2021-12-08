@@ -8,7 +8,10 @@ Web App link -  https://olympic-dataanalysis.herokuapp.com/
 Data Set link - https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 this is end to end project to analysis about whole history about olympic. I deployed it on Heroku using streamlit library of python.
-There are some files in this project--------1-app.py-->In this file all features of web app has been shown which is visible to all users.
+
+There are some files in this project-
+
+                                    |--------1-app.py-->In this file all features of web app has been shown which is visible to all users.
 
                                     |
                                     |-------2-helper.py-->in this file many fuctions has been written which are used in app.py by imp
