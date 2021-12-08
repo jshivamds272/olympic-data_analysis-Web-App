@@ -9,15 +9,21 @@ Data Set link - https://www.kaggle.com/heesoo37/120-years-of-olympic-history-ath
 
 this is end to end project to analysis about whole history about olympic. I deployed it on Heroku using streamlit library of python.
 There are some files in this project--------1-app.py-->In this file all features of web app has been shown which is visible to all users.
+
                                     |
                                     |-------2-helper.py-->in this file many fuctions has been written which are used in app.py by imp
+                                    
                                     |
                                     |-------3-processing.py--> in this file there are ppreprocessing steps has been shown
+                                    
                                     |
                                     |-------4-gitignore--> this file is a text file that tells Git which files or folders to ignore in a project.
+                                    
                                     |
                                     |-------5-requirements.txt--> in this file all the requirements of our projects has been written which will be download on server.
+                                    
                                     |
                                     |-------6-Procfile-->A Procfile is a mechanism for declaring what commands are run by your application's containers on the Deis platform. It                                       |                    follows the process model.
+                                    
                                     |
                                     |-------7-Setup.sh-->This is a shell file.
