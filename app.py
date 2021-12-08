@@ -9,7 +9,7 @@ import plotly.figure_factory as ff
 import helper
 import processing
 #import datasets
-df = pd.read_csv(r'C:\Users\Shivam Joshi\PycharmProjects\olympic_data_web_app\athlete_events1.zip.zip')
+df = pd.read_csv(r'C:\Users\Shivam Joshi\PycharmProjects\olympic_data_web_app\athlete_events1.zip.zip\athlete_events1.csv.csv')
 region_df = pd.read_csv(r'C:\Users\Shivam Joshi\PycharmProjects\olympic_data_web_app\noc_regions.csv')
 
 
